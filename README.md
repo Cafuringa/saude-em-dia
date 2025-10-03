@@ -20,6 +20,5 @@ Kotlin, Jetpack Compose (Material 3), WorkManager.
 |------|---------|
 | ![Home](docs/screenshots/home.png) | ![Pickers](docs/screenshots/pickers.png) |
 
-> Coloque suas imagens em `docs/screenshots/` e ajuste os nomes.
 
 ## 📂 Estrutura
